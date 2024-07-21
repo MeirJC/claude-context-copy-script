@@ -1,3 +1,5 @@
+![](./Claude-Projects.png)
+
 # 🤖 Claude-Context-Copier
 
 Welcome to the Claude-Context-Copier repo! 👋 This is your one-stop shop for supercharging your AI-assisted development with Claude.ai.
