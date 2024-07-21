@@ -39,7 +39,7 @@ Feel like tinkering? Check out the "Expanding Your Options" section in each scri
 
 ## 📚 Learn More
 
-Want to dive deeper into how this all works? Check out my article [AI-Powered Development: How to Feed Your Entire Project to Claude.ai in One Script](your-article-link-here).
+Want to dive deeper into how this all works? Check out my article [AI-Powered Development: How to Feed Your Entire Project to Claude.ai in One Script](https://meirjc.hashnode.dev/ai-powered-development-how-to-feed-your-entire-project-to-claudeai-in-one-script).
 
 ## 🤝 Contributing
 
